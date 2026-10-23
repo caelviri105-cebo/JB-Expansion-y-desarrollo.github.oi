@@ -93,7 +93,7 @@ nav {
 .hero {
   min-height: 100vh;
   background: linear-gradient(135deg, rgba(50, 60, 68, 0.336) 50%, rgba(253, 242, 95, 0.26) 100%), 
-              url('../imagenes/Imgindex.png');
+              url('Imgindex.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
